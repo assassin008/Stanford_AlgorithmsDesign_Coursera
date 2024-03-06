@@ -42,7 +42,8 @@ Type the numeric answer in the space provided.
 So if your answer is 1198233847, then just type 1198233847 in the space provided without any space / commas / other punctuation marks. You have 5 attempts to get the correct answer.
 
 The answer is : 162085
-#2 
+
+# 2 
 
 GENERAL DIRECTIONS AND HOW TO GIVE US YOUR ANSWER:
 
@@ -53,7 +54,8 @@ DIRECTIONS FOR THIS PROBLEM:
 Compute the number of comparisons (as in Problem 1), always using the final element of the given array as the pivot element.  Again, be sure to implement the Partition subroutine exactly as it is described in the video lectures.
 
 The answer is : 164123
-#3 
+
+# 3 
 
 GENERAL DIRECTIONS AND HOW TO GIVE US YOUR ANSWER:
 
